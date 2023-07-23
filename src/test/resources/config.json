@@ -1,0 +1,7 @@
+{ 
+    "url" : "https://jsonplaceholder.typicode.com",
+    "post": "/posts",
+    "post99": "/posts/99",
+    "post150":"/posts/150",
+    "users": "/users"
+ }

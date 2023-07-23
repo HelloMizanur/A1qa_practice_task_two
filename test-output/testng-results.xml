@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-23T15:45:35 BDT" name="Default suite" finished-at="2023-07-23T15:45:38 BDT" duration-ms="3644">
+    <groups>
+    </groups>
+    <test started-at="2023-07-23T15:45:35 BDT" name="Default test" finished-at="2023-07-23T15:45:38 BDT" duration-ms="3644">
+      <class name="restAPITest.Task2Tests">
+        <test-method signature="test1()[pri:0, instance:restAPITest.Task2Tests@51133c06]" started-at="2023-07-23T15:45:35 BDT" name="test1" finished-at="2023-07-23T15:45:38 BDT" duration-ms="3582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- restAPITest.Task2Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
